@@ -1,0 +1,1 @@
+/usr/bin/g++    -rdynamic CMakeFiles/childproc.dir/main.cpp.o  -o childproc 

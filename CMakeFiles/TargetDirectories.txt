@@ -1,0 +1,8 @@
+/home/dima/learn/linproc/CMakeFiles/rebuild_cache.dir
+/home/dima/learn/linproc/CMakeFiles/edit_cache.dir
+/home/dima/learn/linproc/mainproc/CMakeFiles/rebuild_cache.dir
+/home/dima/learn/linproc/mainproc/CMakeFiles/mainproc.dir
+/home/dima/learn/linproc/mainproc/CMakeFiles/edit_cache.dir
+/home/dima/learn/linproc/childproc/CMakeFiles/rebuild_cache.dir
+/home/dima/learn/linproc/childproc/CMakeFiles/childproc.dir
+/home/dima/learn/linproc/childproc/CMakeFiles/edit_cache.dir
